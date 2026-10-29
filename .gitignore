@@ -1,0 +1,9 @@
+raw/
+node_modules/
+outputs/
+.openai/
+*.tar.gz
+.env
+.env.*
+!.env.example
+.DS_Store
