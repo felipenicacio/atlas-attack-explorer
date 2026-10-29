@@ -2,6 +2,12 @@
 
 Página estática independente, sem banco de dados ou servidor de aplicação. A interface está em português; os nomes, descrições e evidências preservam o texto oficial.
 
+## Visão da plataforma
+
+![Página inicial do Atlas com busca, filtros, comparação de ransomware e detalhes de uma técnica](docs/images/atlas-home-preview.jpg)
+
+[Ver a captura da página completa](docs/images/atlas-home.jpg)
+
 ## Funcionalidades
 
 - Consulta dos domínios Enterprise, Mobile e ICS.
